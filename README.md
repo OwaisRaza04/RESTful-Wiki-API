@@ -20,12 +20,12 @@
 <h2>Examples</h2>
 <h3>Search for articles about "OpenAI": </h3>
 
-<img src="image/1.png>
+<img src="image/1.png" width="500" height="60">
 
 
 <h3>Retrieve the article for "Deep learning": </h3>
+<img src="image/2.png" width="500" height="60">
 
-<img src="image/2.png>
 
 <hr>
 <h2>Requirements</h2>
